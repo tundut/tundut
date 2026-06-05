@@ -3,21 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20I'm%20Tuấn%20Đức&fontSize=40&fontColor=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Building+real-time+systems&center=true&width=500&height=50">
+</p>
+
 <h3 align="center">Fullstack Developer | React • Node.js • Spring Boot</h3>
 
 <p align="center">
-  Building scalable web applications & real-time systems 🚀
+  Building scalable web applications & real-time systems 
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Fullstack developer focused on web & backend systems  
-- ⚡ Currently building: real-time chat + e-commerce platform  
-- 🌱 Learning system design & distributed systems  
-- 🎯 Goal: Become strong backend + architecture engineer  
-- 📍 Based in Vietnam  
+- Fullstack developer (React, Node.js, Spring Boot)
+- Focus on real-time systems & backend architecture
+- Currently building chat & e-commerce apps
 
 ---
 
@@ -31,14 +33,18 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 
 ## 📊 GitHub Stats
 
@@ -104,3 +110,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square" />
