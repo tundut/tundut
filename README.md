@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Building+real-time+systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%7C+Node.js+%7C+Spring+Boot+%7C+.NET;Building+real-time+systems&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">Fullstack Developer | React • Node.js • Spring Boot</h3>
+<h3 align="center">Fullstack Developer | React • Node.js • Spring Boot • .NET</h3>
 
 <p align="center">
   Building scalable web applications & real-time systems 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- Fullstack developer (React, Node.js, Spring Boot)
+- Fullstack developer (React, Node.js, Spring Boot, .NET)
 - Focus on real-time systems & backend architecture
 - Currently building chat & e-commerce apps
 
