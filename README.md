@@ -44,7 +44,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tundut/tundut/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tundut/tundut/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 📊 GitHub Stats
