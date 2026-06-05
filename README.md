@@ -43,8 +43,9 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 📊 GitHub Stats
 
